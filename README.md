@@ -1,1 +1,0 @@
-# backbone-underscore-todo-app
